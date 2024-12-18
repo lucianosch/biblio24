@@ -4,42 +4,42 @@ L,L'amore ai tempi del colera,1985,416
 L,Cronaca di una morte annunciata,1981,128
 L,Memorie delle mie puttane tristi,2004,128
 A,Fitzgerald,F. Scott,Stati Uniti
-L,Il grande Gatsby, 1925, 224
-L,Tenera è la notte, 1934, 416
-L,Di qua dal paradiso, 1920, 272
+L,Il grande Gatsby,1925,224
+L,Tenera è la notte,1934,416
+L,Di qua dal paradiso,1920,272
 L,Racconti dell'età del jazz,1922,320
 A,Austen,Jane,Regno Unito
 L,Orgoglio e pregiudizio,1813,416
-L,Emma,1816, 432
-L,Mansfield Park,1814, 416
-L,Ragione e sentimento,1811, 336
+L,Emma,1816,432
+L,Mansfield Park,1814,416
+L,Ragione e sentimento,1811,336
 A,Camus,Albert,Francia
-L,Lo straniero, 1942, 160
-L,La peste, 1947, 336
-L,Il mito di Sisifo, 1942, 160
-L,La caduta, 1956, 128
+L,Lo straniero,1942,160
+L,La peste,1947,336
+L,Il mito di Sisifo,1942,160
+L,La caduta,1956,128
 A,Woolf,Virginia,Regno Unito
-L,Mrs. Dalloway, 1925, 224
-L,Gita al faro, 1927, 272
-L,Orlando, 1928, 336
-L,La signora Dalloway, 1925, 224
+L,Mrs. Dalloway,1925,224
+L,Gita al faro,1927,272
+L,Orlando,1928,336
+L,La signora Dalloway,1925,224
 A,Hemingway,Ernest,Stati Uniti
-L,Il vecchio e il mare, 1952, 128
-L,Addio alle armi, 1929, 336
-L,Per chi suona la campana, 1940, 416
-L,Verdi colline d'Africa, 1935, 272
+L,Il vecchio e il mare,1952,128
+L,Addio alle armi,1929,336
+L,Per chi suona la campana,1940,416
+L,Verdi colline d'Africa,1935,272
 A,Morrison,Toni,Stati Uniti
-L,Beloved, 1987, 336
-L,La canzone di Solomon, 1977, 336
-L,Amatissima, 1981, 272
-L,Jazz, 1992, 224
+L,Beloved,1987,336
+L,La canzone di Solomon,1977,336
+L,Amatissima,1981,272
+L,Jazz,1992,224
 A,Calvino,Italo,Italia
-L,Il barone rampante, 1957, 272
-L,Il cavaliere inesistente, 1959, 224
-L,Se una notte d'inverno un viaggiatore, 1979, 272
-L,Le città invisibili, 1972, 160
+L,Il barone rampante,1957,272
+L,Il cavaliere inesistente,1959,224
+L,Se una notte d'inverno un viaggiatore,1979,272
+L,Le città invisibili,1972,160
 A,Borges,Jorge Luis,Argentina
-L,Finzioni, 1944, 224
-L,L'Aleph, 1949, 160
-L,Storia universale dell'infamia, 1935, 272
-L,La biblioteca di Babele, 1949, 128
+L,Finzioni,1944,224
+L,L'Aleph,1949,160
+L,Storia universale dell'infamia,1935,272
+L,La biblioteca di Babele,1949,128
