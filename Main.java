@@ -24,6 +24,8 @@ public class Main {
         }
         origine.close();
         System.out.println(catalogo.getAutori());
-        System.out.println(catalogo.getAutore(1).getLibri());
+        System.out.println(catalogo.getAutore(2).getLibri());
+        System.out.println(catalogo.getAutore("Sciascia").getLibri());
+        System.out.println(catalogo.getLibri());
     }
 }

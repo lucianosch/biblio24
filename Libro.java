@@ -1,4 +1,4 @@
-public class Libro implements Comparable<Libro> {
+public class Libro{ //implements Comparable<Libro> {
     private String titolo;
     private Autore autore;
     private int annoPubblicazione;
@@ -16,10 +16,14 @@ public class Libro implements Comparable<Libro> {
 
     @Override
     public String toString() {
-        return String.format("%s, %d pagine [%d]",titolo,nPagine,annoPubblicazione);
+        return String.format("[%s] - %s, %d pagine [%d]",autore.getCognome(),titolo,nPagine,annoPubblicazione);
     }
-    
+    /*
     public int compareTo(Libro libro){
         return annoPubblicazione - libro.annoPubblicazione;
+    }
+    */
+    public int getAnno(){
+        return annoPubblicazione;
     }
 }

@@ -43,3 +43,13 @@ L,Finzioni,1944,224
 L,L'Aleph,1949,160
 L,Storia universale dell'infamia,1935,272
 L,La biblioteca di Babele,1949,128
+A,Asimov,Isaac,Stati Uniti
+L,Io Robot,1950,188
+L,Fondazione,1951,256
+L,Le Correnti Spaziali,1952,224
+L,Abissi d'Acciaio,1954,192
+A,Sciascia,Leonardo,Italia
+L,Il giorno della civetta,1961,224
+L,Una pietra in mare,1956,192
+L,Il Consiglio d'Egitto,1963,256
+L,Todo modo,1976,188
