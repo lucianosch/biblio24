@@ -1,9 +1,10 @@
+import java.io.Serializable;
 import java.util.ArrayList;
 //import java.util.Collections;
 //import java.util.Comparator;
 import java.util.List;
 
-public class Catalogo {
+public class Catalogo implements Serializable{
     private List<Libro> libri;
     private List<Autore> autori;
 
@@ -29,6 +30,7 @@ public class Catalogo {
         }
         return result;
     }
+    
 
     public String getLibri(){
         //libri.sort(Collections.reverseOrder());

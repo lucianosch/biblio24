@@ -1,4 +1,6 @@
-public class Libro{ //implements Comparable<Libro> {
+import java.io.Serializable;
+
+public class Libro implements Serializable{ //implements Comparable<Libro> {
     private String titolo;
     private Autore autore;
     private int annoPubblicazione;

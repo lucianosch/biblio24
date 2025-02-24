@@ -1,8 +1,9 @@
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Comparator;
 
-public class Autore{ //implements Comparable<Autore> {
+public class Autore implements Serializable{ //implements Comparable<Autore> {
     private String cognome;
     private String nome;
     private String nazione;
