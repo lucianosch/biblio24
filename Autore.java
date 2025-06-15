@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Comparator;
 
-public class Autore implements Serializable{ //implements Comparable<Autore> {
+public class Autore implements Serializable{//, Comparable<Autore> {
     private String cognome;
     private String nome;
     private String nazione;
@@ -41,5 +41,13 @@ public class Autore implements Serializable{ //implements Comparable<Autore> {
             result += l + "\n";
         }
         return result;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public String getNazione() {
+        return nazione;
     }
 }
